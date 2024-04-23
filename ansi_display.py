@@ -53,5 +53,4 @@ for j in range(a[1]):
 and clear this bottom part here by importing "os"
 then using "os.system("clear")" here
 '''
-os.system('clear')
 subprocess.run(['bash', '-c', 'rm image.png old_image.png'])
